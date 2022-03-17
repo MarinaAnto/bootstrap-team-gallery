@@ -1,0 +1,29 @@
+h4{
+     color:green;
+     font-size:larger;
+     text-align: center;
+}
+h5{
+     color:gray;
+     font-size: small;
+     text-align: center;
+}
+h2{
+     color:green;
+     font-size:150%;
+     margin-left: 33%;
+}
+h6{
+     font-size:smaller;
+     text-align: center;
+}
+h3{
+     font-size: 120%;
+     margin-left: 25%;
+}
+#Jordan{
+     margin-left:4%;
+}
+#Container{
+     margin-top: 2%;
+}
